@@ -1,5 +1,5 @@
 <h1 align="center"> 👋Hey Hey 😃 </h1>
-<h3 align="center">I'm Hossein Moosavi 👋 I'm a software engineer and a freelancer, building high-performance, mobile applications. I do almost all of my work in Dart and recently Kotlin.</h3>
+<h3 align="center">Hope you're doing well I'm Hossein Moosavi 👋 I'm a software engineer and a freelancer, building high-performance, mobile applications. I do almost all of my work in Dart/Flutter and recently trying to learn Kotlin/Android.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naturesmiling&label=Profile%20views&color=0e75b6&style=flat" alt="naturesmiling" /> </p>
