@@ -3,8 +3,8 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naturesmiling&label=Profile%20views&color=0e75b6&style=flat" alt="naturesmiling" /> </p>
-
-<p align="left"> <a href="https://twitter.com/naturesmiling" target="blank"><img src="https://img.shields.io/twitter/follow/naturesmiling?logo=twitter&style=for-the-badge" alt="naturesmiling" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://twitter.com/naturesmiling" target="blank"><img src="https://img.shields.io/twitter/follow/naturesmiling?logo=twitter&style=for-the-badge" alt="naturesmiling" /></a> </p> -->
 
 - 🌱 I’m currently learning **Kotlin/Android** beside **dart/Flutter**
 
