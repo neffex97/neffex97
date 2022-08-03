@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin/Android** beside **dart/Flutter**
 
-- 👨‍💻 All of my open source projects are available at [https://github.com/hosseinEnzo](https://github.com/hossein_enzo)
+- 👨‍💻 All of my open source projects are available at [https://github.com/hosseinEnzo](https://github.com/hosseinEnzo)
 
 - 📫 How to reach me **hosseinmoosavi97@gmail.com**
 
