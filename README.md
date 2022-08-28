@@ -2,10 +2,11 @@
 <h3 align="center">Hope you're doing well I'm Hossein Moosavi 👋 I'm a software engineer and a freelancer, building high-performance, mobile applications. I do almost all of my work in Dart/Flutter and recently trying to learn Kotlin/Android.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinEnzo&label=Profile%20views&color=0e75b6&style=flat" alt="hossein_enzo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinEnzo&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinEnzo" /> </p>
 <!-- 
+<p align="left">  </p> -->
 
-- 🌱 I’m currently learning **Kotlin/Android** beside **dart/Flutter**
+- 🌱 I’m currently learning **Swift/Ios** beside **dart/Flutter**
 
 - 👨‍💻 All of my open source projects are available at [https://github.com/hosseinEnzo](https://github.com/hosseinEnzo)
 
@@ -14,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://te.me/hossein_enzo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="hossein_enzo" height="40" width="40" /></a>
-
 <a href="https://linkedin.com/in/hossein-moosavi-4329ba176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossein-moosavi-4329ba176" height="30" width="40" /></a>
 </p>
 
@@ -26,8 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinEnzo&show_icons=true&locale=en" alt="ho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinEnzo&" alt="hosseinEnzo" /></p>
-
-
-
 
 
