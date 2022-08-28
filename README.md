@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinEnzo&label=Profile%20views&color=0e75b6&style=flat" alt="hossein_enzo" /> </p>
 <!-- 
-<p align="left"> <a href="https://twitter.com/hossein_enzo" target="blank"><img src="https://img.shields.io/twitter/follow/hosseinEnzo?logo=twitter&style=for-the-badge" alt="hosseinEnzo" /></a> </p> -->
 
 - 🌱 I’m currently learning **Kotlin/Android** beside **dart/Flutter**
 
@@ -15,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://te.me/hossein_enzo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="hossein_enzo" height="40" width="40" /></a>
-<a href="https://twitter.com/Hossein_msv97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossein_enzo" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/hossein-moosavi-4329ba176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossein-moosavi-4329ba176" height="30" width="40" /></a>
 </p>
 
